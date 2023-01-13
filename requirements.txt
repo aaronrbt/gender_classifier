@@ -1,0 +1,7 @@
+tensorflow==2.10.0
+pandas==1.3.5
+scikit-learn==1.0.2
+flask==2.2.2
+gunicorn==20.1.0
+pycaret==2.3.10
+matplotlib==3.2.2
